@@ -3,7 +3,7 @@ require 'pry'
 class String
 
   def sentence?
-    self.sentence = sentence
+    self.sentence? = sentence?
     # string.end_with?(period)
 
   end
