@@ -4,7 +4,7 @@ class String
 
   def sentence?(string)
     self.string = string
-    string.end_with?(period)
+    # string.end_with?(period)
 
   end
 
